@@ -1,2 +1,5 @@
 /target
 
+/entity_out
+
+db.sqlite
